@@ -3,8 +3,6 @@ Basic Details
 Team Name: TECH WITH CHAI
 Team Members
 Member 1: Vrinda J Nair - Model Engineering College
-Member 2: Gouri Mukesh  - Model Engineering College
-Member 3: Gayathri K V  - Model Engineering College
 Hosted Project Link
 [mention your project hosted project link here]
 
